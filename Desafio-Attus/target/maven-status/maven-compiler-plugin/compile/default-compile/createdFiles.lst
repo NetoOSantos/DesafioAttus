@@ -1,0 +1,7 @@
+com\desafio\attus\Desafio\Attus\service\PersonService.class
+com\desafio\attus\Desafio\Attus\SwaggerConfig.class
+com\desafio\attus\Desafio\Attus\controller\AddressController.class
+com\desafio\attus\Desafio\Attus\model\Address.class
+com\desafio\attus\Desafio\Attus\model\Person.class
+com\desafio\attus\Desafio\Attus\controller\PersonController.class
+com\desafio\attus\Desafio\Attus\DesafioAttusApplication.class
